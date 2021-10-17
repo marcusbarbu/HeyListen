@@ -1,0 +1,6 @@
+.vscode/
+*.csv*
+*.ods*
+*-bak*
+*-cache*
+secrets.h

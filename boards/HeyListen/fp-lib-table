@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name HeyListen)(type KiCad)(uri ${KIPRJMOD}/HeyListen.pretty)(options "")(descr ""))
+)
